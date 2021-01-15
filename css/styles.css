@@ -1,0 +1,14 @@
+.dark-background {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-background {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.click-highlight {
+  border: coral 5px solid;
+  background-color: yellow;
+}
